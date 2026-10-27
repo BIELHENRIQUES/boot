@@ -1,0 +1,27 @@
+ .container{
+    display: flex;
+    height:1000px ;
+    width: 1000px;
+    background-color:orange ;
+
+ }
+ .box1{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(66, 134, 134);
+    border-style: dashed;
+    border-color: bisque;
+    border-radius: 1000px;
+    margin: 50px;
+    
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(240, 89, 89);
+}
+.box3{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(59, 20, 150);
+}

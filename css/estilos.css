@@ -1,0 +1,29 @@
+*{
+    height: 100%;
+}
+h1{
+text-align: center;
+color: rgb(182, 150, 112);
+}
+p{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: black;
+text-align: right;
+}
+body{
+   /* background-image: linear-gradient(to bottom,red, blue;*/
+
+
+    background-color: beige;
+    background-image: url(apple-big-logo.png);
+    background-repeat: no-repeat;
+    background-position-x: center ;
+    background-position-y: center;
+
+    
+  
+
+
+
+
+}
